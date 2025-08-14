@@ -1,0 +1,8 @@
+{
+    "data_path": "/ibex/user/thagafhh/data/Preprocessed_data_250Hz",
+    "img_directory_training": "/ibex/user/thagafhh/data/training_images",
+    
+    "img_directory_test": "/ibex/user/thagafhh/data/test_images",
+    "features_path":"/home/ldy/Workspace/THINGS/CLIP"
+}
+
