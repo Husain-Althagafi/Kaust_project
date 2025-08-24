@@ -16,4 +16,4 @@ Dreamsim for Human-Alignment
 
 
 Reconstructed Images:
-- Google Drive Link: https://drive.google.com/drive/folders/1OkQaIyM6jouqM_KXc74tUhvDKlB3OcOs
+- Google Drive Link: https://drive.google.com/drive/folders/1OkQaIyM6jouqM_KXc74tUhvDKlB3OcOs?usp=drive_link
