@@ -13,3 +13,7 @@ Baseline Architecture for EEG-to-Image Reconstruction
 
 Dreamsim for Human-Alignment
 - Paper: https://arxiv.org/pdf/2306.09344 Repo: https://github.com/ssundaram21/dreamsim
+
+
+Reconstructed Images:
+- Google Drive Link: https://drive.google.com/drive/folders/1OkQaIyM6jouqM_KXc74tUhvDKlB3OcOs
