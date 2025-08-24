@@ -4,3 +4,12 @@ Consists of:
 - replication of SOTA baseline for eeg-to-image reconstruction
 - experiments with human-alignment in the image encoder used in the contrastive learning portion of the pipeline
 - experiments with the pipeline in general 
+
+
+References:
+
+Baseline Architecture for EEG-to-Image Reconstruction
+- Paper: https://arxiv.org/abs/2403.07721 Repo: https://github.com/ncclab-sustech/EEG_Image_decode
+
+Dreamsim for Human-Alignment
+- Paper: https://arxiv.org/pdf/2306.09344 Repo: https://github.com/ssundaram21/dreamsim
