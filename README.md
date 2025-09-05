@@ -1,4 +1,4 @@
-My codebase for my KAUST AI project. 
+My codebase for a portion of my KAUST AI project. 
 
 Consists of:
 - replication of SOTA baseline for eeg-to-image reconstruction
