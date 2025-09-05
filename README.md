@@ -17,3 +17,6 @@ Dreamsim for Human-Alignment
 
 Reconstructed Images:
 - Google Drive Link: https://drive.google.com/drive/folders/1OkQaIyM6jouqM_KXc74tUhvDKlB3OcOs?usp=drive_link
+
+
+Link to our official project repo: https://github.com/aqasemi/mindviz
